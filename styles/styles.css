@@ -155,6 +155,38 @@
     font-family: Ionicons;
 }
 
+.outline-entry-depth-1:before {
+    padding-left: 0px;
+}
+
+.outline-entry-depth-2:before {
+    padding-left: 10px;
+}
+
+.outline-entry-depth-3:before {
+    padding-left: 20px;
+}
+
+.outline-entry-depth-4:before {
+    padding-left: 30px;
+}
+
+.outline-entry-depth-5:before {
+    padding-left: 40px;
+}
+
+.outline-entry-depth-6:before {
+    padding-left: 50px;
+}
+
+.outline-entry-depth-7:before {
+    padding-left: 60px;
+}
+
+.outline-entry-depth-8:before {
+    padding-left: 70px;
+}
+
 
 /* CoffeeScript */
 .outline-entry-coffee.outline-entry-private:before {
